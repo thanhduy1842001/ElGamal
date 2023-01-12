@@ -1,5 +1,4 @@
 # ElGamal
 
-Xây dựng chương trình mô phỏng quá trình trao đổi khoá bằng thuật toán Diffie-Hellman
-
+Xây dựng chương trình mã hoá ElGamal
 Giới thiệu và hướng dẫn chi tiết dự án trong file Report.pdf
